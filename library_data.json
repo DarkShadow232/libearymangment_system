@@ -1,0 +1,308 @@
+{
+    "books": [
+        {
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "author": "J.K. Rowling",
+            "year": "1997",
+            "available": false
+        },
+        {
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "year": "1960",
+            "available": true
+        },
+        {
+            "title": "Omk ",
+            "author": "wewe",
+            "year": "2023",
+            "available": true
+        },
+        {
+            "title": "omK",
+            "author": "ay 7AGA",
+            "year": "2020",
+            "available": true
+        },
+        {
+            "title": "Ay 7aga tani",
+            "author": "3m elnas",
+            "year": "1999",
+            "available": true
+        },
+        {
+            "title": "Book Title 1",
+            "author": "Author 1",
+            "year": "2001",
+            "available": true
+        },
+        {
+            "title": "Book Title 2",
+            "author": "Author 2",
+            "year": "2002",
+            "available": true
+        },
+        {
+            "title": "Book Title 3",
+            "author": "Author 3",
+            "year": "2003",
+            "available": true
+        },
+        {
+            "title": "Book Title 4",
+            "author": "Author 4",
+            "year": "2004",
+            "available": true
+        },
+        {
+            "title": "Book Title 5",
+            "author": "Author 5",
+            "year": "2005",
+            "available": true
+        },
+        {
+            "title": "Book Title 6",
+            "author": "Author 6",
+            "year": "2006",
+            "available": true
+        },
+        {
+            "title": "Book Title 7",
+            "author": "Author 7",
+            "year": "2007",
+            "available": true
+        },
+        {
+            "title": "Book Title 8",
+            "author": "Author 8",
+            "year": "2008",
+            "available": true
+        },
+        {
+            "title": "Book Title 9",
+            "author": "Author 9",
+            "year": "2009",
+            "available": true
+        },
+        {
+            "title": "Book Title 10",
+            "author": "Author 10",
+            "year": "2010",
+            "available": true
+        },
+        {
+            "title": "Book Title 11",
+            "author": "Author 11",
+            "year": "2011",
+            "available": true
+        },
+        {
+            "title": "Book Title 12",
+            "author": "Author 12",
+            "year": "2012",
+            "available": true
+        },
+        {
+            "title": "Book Title 13",
+            "author": "Author 13",
+            "year": "2013",
+            "available": true
+        },
+        {
+            "title": "Book Title 14",
+            "author": "Author 14",
+            "year": "2014",
+            "available": true
+        },
+        {
+            "title": "Book Title 15",
+            "author": "Author 15",
+            "year": "2015",
+            "available": true
+        },
+        {
+            "title": "Book Title 16",
+            "author": "Author 16",
+            "year": "2016",
+            "available": true
+        },
+        {
+            "title": "Book Title 17",
+            "author": "Author 17",
+            "year": "2017",
+            "available": true
+        },
+        {
+            "title": "Book Title 18",
+            "author": "Author 18",
+            "year": "2018",
+            "available": true
+        },
+        {
+            "title": "Book Title 19",
+            "author": "Author 19",
+            "year": "2019",
+            "available": true
+        },
+        {
+            "title": "Book Title 20",
+            "author": "Author 20",
+            "year": "2020",
+            "available": true
+        },
+        {
+            "title": "Book Title 21",
+            "author": "Author 21",
+            "year": "2021",
+            "available": true
+        },
+        {
+            "title": "Book Title 22",
+            "author": "Author 22",
+            "year": "2022",
+            "available": true
+        },
+        {
+            "title": "Book Title 23",
+            "author": "Author 23",
+            "year": "2023",
+            "available": true
+        },
+        {
+            "title": "Book Title 24",
+            "author": "Author 24",
+            "year": "2024",
+            "available": true
+        },
+        {
+            "title": "Book Title 25",
+            "author": "Author 25",
+            "year": "2025",
+            "available": true
+        },
+        {
+            "title": "Book Title 26",
+            "author": "Author 26",
+            "year": "2026",
+            "available": true
+        },
+        {
+            "title": "Book Title 27",
+            "author": "Author 27",
+            "year": "2027",
+            "available": true
+        },
+        {
+            "title": "Book Title 28",
+            "author": "Author 28",
+            "year": "2028",
+            "available": true
+        },
+        {
+            "title": "Book Title 29",
+            "author": "Author 29",
+            "year": "2029",
+            "available": true
+        },
+        {
+            "title": "Book Title 30",
+            "author": "Author 30",
+            "year": "2030",
+            "available": true
+        }
+    ],
+    "borrowed_books": [
+        {
+            "book": {
+                "title": "Harry Potter and the Sorcerer's Stone",
+                "author": "J.K. Rowling",
+                "year": "1997",
+                "available": false
+            },
+            "borrower": "Omar Mohamed",
+            "due_date": "2024-12-06"
+        }
+    ],
+    "students": [
+        {
+            "name": "Student 1",
+            "id": "ID001"
+        },
+        {
+            "name": "Student 2",
+            "id": "ID002"
+        },
+        {
+            "name": "Student 3",
+            "id": "ID003"
+        },
+        {
+            "name": "Student 4",
+            "id": "ID004"
+        },
+        {
+            "name": "Student 5",
+            "id": "ID005"
+        },
+        {
+            "name": "Student 6",
+            "id": "ID006"
+        },
+        {
+            "name": "Student 7",
+            "id": "ID007"
+        },
+        {
+            "name": "Student 8",
+            "id": "ID008"
+        },
+        {
+            "name": "Student 9",
+            "id": "ID009"
+        },
+        {
+            "name": "Student 10",
+            "id": "ID010"
+        },
+        {
+            "name": "Student 11",
+            "id": "ID011"
+        },
+        {
+            "name": "Student 12",
+            "id": "ID012"
+        },
+        {
+            "name": "Student 13",
+            "id": "ID013"
+        },
+        {
+            "name": "Student 14",
+            "id": "ID014"
+        },
+        {
+            "name": "Student 15",
+            "id": "ID015"
+        },
+        {
+            "name": "Student 16",
+            "id": "ID016"
+        },
+        {
+            "name": "Student 17",
+            "id": "ID017"
+        },
+        {
+            "name": "Student 18",
+            "id": "ID018"
+        },
+        {
+            "name": "Student 19",
+            "id": "ID019"
+        },
+        {
+            "name": "Student 20",
+            "id": "ID020"
+        }
+    ]
+}
